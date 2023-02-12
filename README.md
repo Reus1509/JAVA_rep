@@ -1,6 +1,6 @@
 # JAVA_rep
 ## Готовые домашние работы:
-1. src/main/java/org/example/seminar_1/hw1/
+1. src/main/java/org/example/seminar_1/hw1/ - домашняя работа 1 семинара
 2.
 3.
 4.
