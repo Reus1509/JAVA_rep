@@ -27,13 +27,10 @@ public class task3 {
             }
         }
 
-        library.printArray(arrSize, arr);
-
         for (int i = 0; i < arrSize; i++) {
             numLength = String.valueOf(arr[i]).length();
             if (numLength == 2 && arr[i] > 0) {
                 summ += i;
-                System.out.printf("---%d--- ", summ);
             }
         }
 
