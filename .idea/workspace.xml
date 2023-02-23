@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e63932c7-b695-4fe9-8f7b-a2367198a487" name="Changes" comment="add model2 to cw 3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar3/cw3/model3/Cub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar3/cw3/model3/Main.java" afterDir="false" />
+    <list default="true" id="e63932c7-b695-4fe9-8f7b-a2367198a487" name="Changes" comment="add model3 to cw 3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar3/hw3/model1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar3/hw3/model1/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar3/hw3/model1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar3/hw3/model2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar3/hw3/model2/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar3/hw3/model2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar3/hw3/model3/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar3/hw3/model3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar3/hw3/model3/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677138708674</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add model3 to cw 3">
+      <created>1677140434923</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677140434923</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +159,7 @@
     <MESSAGE value="add work with OOP task at second seminar" />
     <MESSAGE value="add model1 to cw 3" />
     <MESSAGE value="add model2 to cw 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="add model2 to cw 3" />
+    <MESSAGE value="add model3 to cw 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add model3 to cw 3" />
   </component>
 </project>
