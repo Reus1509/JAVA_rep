@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e63932c7-b695-4fe9-8f7b-a2367198a487" name="Changes" comment="add hw_4">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar5/cw5/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar5/cw5/task1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar5/cw5/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar5/cw5/task2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar5/cw5/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar5/hw5/model1/CountInWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar5/hw5/model1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar5/hw5/model2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar5/hw5/model2/WordCount.java" afterDir="false" />
+    <list default="true" id="e63932c7-b695-4fe9-8f7b-a2367198a487" name="Changes" comment="add hw_5">
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar6/hw6/model/Brand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar6/hw6/model/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar6/hw6/model/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +29,11 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="workspaceImportEnabled" value="true" />
@@ -47,13 +46,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/СмартАптека/Desktop/Обучение GB/2. II четверть. Специализация/Знакомство с языком JAVA/Домашки/Seminar/JAVA_rep"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="CountInWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.seminar5.hw5.model1.CountInWords" />
@@ -167,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677400492394</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add hw_5">
+      <created>1677539873829</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1677539873829</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,7 +205,8 @@
     <MESSAGE value="add model1, model2, model3 to hw3" />
     <MESSAGE value="add cw_4" />
     <MESSAGE value="add hw_4" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hw_4" />
+    <MESSAGE value="add hw_5" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw_5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
