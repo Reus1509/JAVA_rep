@@ -4,10 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e63932c7-b695-4fe9-8f7b-a2367198a487" name="Changes" comment="add hw_5">
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar6/hw6/model/Brand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar6/hw6/model/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar6/hw6/model/Main.java" afterDir="false" />
+    <list default="true" id="e63932c7-b695-4fe9-8f7b-a2367198a487" name="Changes" comment="add hw_6">
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/seminar1/hw1/BottleOfWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/seminar1/hw1/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/seminar1/hw1/HotDrink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/seminar1/hw1/HotSellVendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/seminar1/hw1/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/seminar1/hw1/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/seminar1/hw1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/seminar1/hw1/Tea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/seminar1/hw1/VendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/seminar1/hw1/WaterSaleVendingMachine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,16 +58,50 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/СмартАптека/Desktop/Обучение GB/2. II четверть. Специализация/Знакомство с языком JAVA/Домашки/Seminar/JAVA_rep"
+    "last_opened_file_path": "C:/Users/СмартАптека/Desktop/Обучение GB/2. II четверть. Специализация/Знакомство с языком JAVA/Домашки/Seminar/JAVA_rep/src/main/java/OOP/seminar1/hw1"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\СмартАптека\Desktop\Обучение GB\2. II четверть. Специализация\Знакомство с языком JAVA\Домашки\Seminar\JAVA_rep\src\main\java\OOP\seminar1\hw1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\СмартАптека\Desktop\Обучение GB\2. II четверть. Специализация\Знакомство с языком JAVA\Домашки\Seminar\JAVA_rep\src\main\java\OOP\seminar1\hw1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OOP.seminar1.hw1.Program">
     <configuration name="CountInWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.seminar5.hw5.model1.CountInWords" />
       <module name="seminar" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.seminar5.hw5.model1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.seminar1.practise.Main" />
+      <module name="seminar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.seminar1.practise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOP.seminar1.hw1.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.seminar1.hw1.Program" />
+      <module name="seminar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.seminar1.cw1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,8 +122,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.seminar1.cw1.Program" />
+      <module name="seminar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.seminar1.cw1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OOP.seminar1.hw1.Program" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.CountInWords" />
         <item itemvalue="Application.OopTaskMainWork" />
       </list>
@@ -174,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677539873829</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add hw_6">
+      <created>1677744958197</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1677744958197</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,7 +270,8 @@
     <MESSAGE value="add cw_4" />
     <MESSAGE value="add hw_4" />
     <MESSAGE value="add hw_5" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hw_5" />
+    <MESSAGE value="add hw_6" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw_6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -214,6 +279,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.NoSuchElementException" package="java.util" />
           <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
