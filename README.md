@@ -6,3 +6,7 @@
 4. src/main/java/org/example/seminar4/hw4 - домашняя работа 4 семинара
 5.https://github.com/Reus1509/JAVA_rep/tree/master/src/main/java/org/example/seminar5/hw5 - домашняя работа 5 семинара
 6. https://github.com/Reus1509/JAVA_rep/tree/master/src/main/java/seminar6/hw6/model - домашняя работа 6 семинара
+
+
+Готовые дз по ООП:
+1. https://github.com/Reus1509/JAVA_rep/tree/master/src/main/java/OOP/seminar1/hw1 - 1 семинар
